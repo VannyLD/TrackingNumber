@@ -44,23 +44,5 @@
         "received": 1
       }
     ]
-  },
-  {
-    "id": 1771491622133,
-    "code": "D2",
-    "date": "2026-02-19",
-    "status": "pending",
-    "items": [
-      {
-        "model": "iPad Mini 1",
-        "qty": 1,
-        "received": 0
-      },
-      {
-        "model": "iPad Air 2",
-        "qty": 1,
-        "received": 0
-      }
-    ]
   }
 ]
