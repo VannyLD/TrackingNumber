@@ -26,17 +26,17 @@
     "id": 1771491319312,
     "code": "Test01",
     "date": "2026-02-19",
-    "status": "partial",
+    "status": "done",
     "items": [
       {
         "model": "iPad Mini 1",
         "qty": 6,
-        "received": 1
+        "received": 6
       },
       {
         "model": "iPad Mini 6",
         "qty": 6,
-        "received": 3
+        "received": 6
       },
       {
         "model": "iPad Air 5",
