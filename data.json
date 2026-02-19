@@ -16,5 +16,23 @@
         "received": 0
       }
     ]
+  },
+  {
+    "id": 1771517124991,
+    "code": "KH01522",
+    "date": "2026-02-18",
+    "status": "pending",
+    "items": [
+      {
+        "model": "iPad Pro 9.7",
+        "qty": 9,
+        "received": 0
+      },
+      {
+        "model": "iPad Mini 1",
+        "qty": 5,
+        "received": 0
+      }
+    ]
   }
 ]
