@@ -7,15 +7,41 @@
     "items": [
       {
         "model": "iPad Mini 1",
-        "qty": "1"
+        "qty": "1",
+        "received": "1"
       },
       {
         "model": "iPad Mini 2",
-        "qty": "1"
+        "qty": "1",
+        "received": "1"
       },
       {
         "model": "iPad Mini 4",
-        "qty": "5"
+        "qty": "5",
+        "received": "5"
+      }
+    ]
+  },
+  {
+    "id": 1771491319312,
+    "code": "Test01",
+    "date": "2026-02-19",
+    "status": "pending",
+    "items": [
+      {
+        "model": "iPad Mini 1",
+        "qty": 6,
+        "received": 0
+      },
+      {
+        "model": "iPad Mini 6",
+        "qty": 6,
+        "received": 0
+      },
+      {
+        "model": "iPad Air 5",
+        "qty": 1,
+        "received": 0
       }
     ]
   }
