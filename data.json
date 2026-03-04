@@ -16,12 +16,12 @@
     "id": 1771768953858,
     "code": "SF5122507619781",
     "date": "2026-02-22",
-    "status": "pending",
+    "status": "done",
     "items": [
       {
         "model": "iPhone 14 Pro Max",
         "qty": 4,
-        "received": 0
+        "received": 4
       }
     ]
   },
