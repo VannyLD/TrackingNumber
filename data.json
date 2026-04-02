@@ -42,12 +42,12 @@
     "id": 1773865395427,
     "code": "78587318419251",
     "date": "2026-03-18",
-    "status": "pending",
+    "status": "done",
     "items": [
       {
         "model": "iPhone 15 Pro Max",
         "qty": 3,
-        "received": 0
+        "received": 3
       }
     ]
   }
